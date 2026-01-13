@@ -63,9 +63,9 @@ Basket-Recommender-Did-You-Forget/
 - α=0.53 sweet spot - micro-tuning matters (0.02 change = 2-3% Recall lift)
 
 ## Tech Stack
-Core: pandas, numpy, scikit-learn
-Matrix Ops: scipy.sparse (memory efficient)
-Viz: matplotlib, seaborn
-Notebooks: Jupyter for reproducible experiments
+- Core: pandas, numpy, scikit-learn
+- Matrix Ops: scipy.sparse (memory efficient)
+- Visualization: matplotlib, seaborn
+- Notebooks: Jupyter for reproducible experiments
 
 
